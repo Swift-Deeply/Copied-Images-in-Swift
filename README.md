@@ -1,5 +1,5 @@
 # Copied Images in Swift
-## With copied images, we can optimize the images in our project.
+With copied images, we can optimize the images in our project.
 
 You can find the article of this repo [here](https://betterprogramming.pub/copied-images-in-swift-8338782250ef).
 
